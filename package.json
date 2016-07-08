@@ -1,0 +1,24 @@
+{
+  "name": "butler-calender",
+  "version": "1.0.0",
+  "description": "butler-calender contains the logic for a sample room booking app.",
+  "main": "cal-app.js",
+  "scripts": {
+    "start": "node cal-sample.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuhong90/butler-calendar.git"
+  },
+  "keywords": [
+    "calender",
+    "google"
+  ],
+  "author": "shek yu hong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuhong90/butler-calendar/issues"
+  },
+  "homepage": "https://github.com/yuhong90/butler-calendar#readme"
+}
