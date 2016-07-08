@@ -1,7 +1,7 @@
 {
-  "name": "butler-calender",
+  "name": "butler-calendar",
   "version": "1.0.0",
-  "description": "butler-calender contains the logic for a sample room booking app.",
+  "description": "butler-calendar contains the logic for a sample room booking app.",
   "main": "cal-app.js",
   "scripts": {
     "start": "node cal-sample.js",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/yuhong90/butler-calendar.git"
   },
   "keywords": [
-    "calender",
+    "calendar",
     "google"
   ],
   "author": "shek yu hong",
